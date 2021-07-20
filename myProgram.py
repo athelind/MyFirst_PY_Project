@@ -28,3 +28,6 @@ print(blueSG.seating_capacity)
 print(blueSG.maximum_velocity)
 
 blueSG.drive()
+
+
+print("This is my changes")
